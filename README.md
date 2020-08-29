@@ -7,4 +7,4 @@ I lead a team of 11 in a State Farm-wide hackathon with 78 teams and ~670 partic
 This repository does not contain code due to its sensitive internal information. Check out the demo below!
 
 # Demo
-![TheInternHub-min](https://user-images.githubusercontent.com/24307015/91625314-f9351700-e96b-11ea-9b95-0bf028a4292b.gif)
+![TheInternHub](https://user-images.githubusercontent.com/24307015/91627441-f68eed80-e97c-11ea-8734-cafe675b0b89.gif)
