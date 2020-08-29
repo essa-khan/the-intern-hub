@@ -1,4 +1,4 @@
-# The-Intern-Hub
+# The Intern Hub
 
 The Intern Hub - Most Creative Hack Award
 
